@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://huwfulcher.com">Huw</a></h1>
+<h1 align="center" style="font-size: 500px">Hi 👋, I'm <a href="https://huwfulcher.com">Huw</a></h1>
 <h2 align="center">Data Scientist, Analyst and Strategist</h2>
 
 ## About Me
@@ -6,16 +6,16 @@
 
 Data Scientist at [Appnovation](https://appnovation.com)
 
-👨‍💻 In my working life I help clients:
+## 👨‍💻 Work Life:
+I help clients:
 - Understand the power of data and its opportunities,
 - How to utilise it,
 - Deliver analysis/infrastructure that enables data-driven strategy.
 
-👨‍👩‍👦 In my personal life I:
-- Am a husband and father to one on the way, 
-- Read a lot (mainly Theology and Science Fiction), 
-- Learn about web/app development,
-- Contribute to Open Source (although I'm fairly new to it).
+## 👨‍👩‍👦 Personal Life:
+- I am a husband and father to one on the way, 
+- I love to read, my current goal is to read 40 books this year (mainly Theology and Science Fiction), 
+- I've started contributing to Open Source (still fairly new to it!).
 
 
 ## 🛠️ What I'm working on

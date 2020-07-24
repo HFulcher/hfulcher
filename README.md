@@ -32,6 +32,8 @@ Personal Enquiries: [fulcherhuw@gmail.com](mailto:fulcherhuw@gmail.com)
 
 Business Enquiries: [huw.fulcher@appnovation.com](mailto:huw.fulcher@appnovation.com)
 
+</br>
+
 Other places I can be found online:
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/huwfulcher/)](https://www.linkedin.com/in/huwfulcher/)
@@ -39,6 +41,6 @@ Other places I can be found online:
 [![Dev.to](https://img.shields.io/badge/-DEV.TO-black?style=flat-square&logo=dev&logoColor=white&link=https://dev.to/huwfulcher)](https://dev.to/huwfulcher)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@huwfulcher)](https://medium.com/@huwfulcher)
 
-[![forthebadge](https://forthebadge.com/images/badges/certified-elijah-wood.svg)](https://forthebadge.com)
+</br>
 
 [![Visits Badge](https://badges.pufler.dev/visits/hfulcher/hfulcher)](https://badges.pufler.dev)

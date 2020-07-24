@@ -16,4 +16,5 @@ In my personal life I am a husband and father to one on the way. In my spare tim
 
 ## How to reach me
 Personal Enquiries: [fulcherhuw@gmail.com](mailto:fulcherhuw@gmail.com)
+
 Business Enquiries: [huw.fulcher@appnovation.com](mailto:huw.fulcher@appnovation.com)

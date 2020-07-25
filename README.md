@@ -2,17 +2,17 @@
 <h2 align="center">Data Scientist, Analyst and Strategist</h2>
 
 ## About Me
+### 👨‍💻 Work Life:
 <strong>Currently:</strong> 
 
 Data Scientist at [Appnovation](https://appnovation.com)
 
-## 👨‍💻 Work Life:
 I help clients:
 - Understand the power of data and its opportunities,
 - How to utilise it,
 - Deliver analysis/infrastructure that enables data-driven strategy.
 
-## 👨‍👩‍👦 Personal Life:
+### 👨‍👩‍👦 Personal Life:
 - I am a husband and father to one on the way, 
 - I love to read, my current goal is to read 40 books this year (mainly Theology and Science Fiction), 
 - I've started contributing to Open Source (still fairly new to it!).

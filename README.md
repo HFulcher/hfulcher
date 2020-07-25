@@ -36,10 +36,10 @@ Business Enquiries: [huw.fulcher@appnovation.com](mailto:huw.fulcher@appnovation
 
 Other places I can be found online:
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/huwfulcher/)](https://www.linkedin.com/in/huwfulcher/)
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-orange?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/3752895/hfulcher)](https://stackoverflow.com/users/3752895/hfulcher)
-[![Dev.to](https://img.shields.io/badge/-DEV.TO-black?style=flat-square&logo=dev&logoColor=white&link=https://dev.to/huwfulcher)](https://dev.to/huwfulcher)
-[![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@huwfulcher)](https://medium.com/@huwfulcher)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/huwfulcher/)](https://www.linkedin.com/in/huwfulcher/)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-orange?style=flat&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/3752895/hfulcher)](https://stackoverflow.com/users/3752895/hfulcher)
+[![Dev.to](https://img.shields.io/badge/-DEV.TO-black?style=flat&logo=dev&logoColor=white&link=https://dev.to/huwfulcher)](https://dev.to/huwfulcher)
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@huwfulcher)](https://medium.com/@huwfulcher)
 
 </br>
 

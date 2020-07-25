@@ -1,5 +1,5 @@
-<h1 align="center" style="font-size: 500px">Hi 👋, I'm <a href="https://huwfulcher.com">Huw</a></h1>
-<h2 align="center">Data Scientist, Analyst and Strategist</h2>
+<h1 align="center">Hi 👋, I'm <a href="https://huwfulcher.com">Huw</a></h1>
+<h3 align="center">Data Scientist, Analyst and Strategist</h3>
 
 ## About Me
 ### 👨‍💻 Work Life:

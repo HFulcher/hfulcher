@@ -25,7 +25,7 @@ I help clients:
 
 ## 💡 What I'm currenly learning
 - Flutter App Development.
-- Full-stack Web Development -- Mainly the MERN stack.
+- JAMstack Web Development.
 
 ## 📮 How to reach me
 Personal Enquiries: [fulcherhuw@gmail.com](mailto:fulcherhuw@gmail.com)

@@ -13,8 +13,8 @@ I help clients:
 - Deliver analysis/infrastructure that enables data-driven strategy.
 
 ### 👨‍👩‍👦 Personal Life:
-- I am a husband and father to one on the way, 
-- I love to read, my current goal is to read 40 books this year (mainly Theology and Science Fiction), 
+- I am a husband and father to one, 
+- I love to read, my current goal is to read 30 books this year (mainly Theology and Science Fiction), 
 - I've started contributing to Open Source (still fairly new to it!).
 
 

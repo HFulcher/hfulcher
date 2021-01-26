@@ -23,15 +23,15 @@ I help clients:
 - Helping clients realise the power of data (get in touch if you want a consultation)
 
 ### Personally:
-- [Devoted](devotedapp.faith) an iOS/Android app to enrich prayer
-- [God's Green Earth](godsgreen.earth) a blog about the relationship between God, Man and Nature
+- [Devoted](https://devotedapp.faith) an iOS/Android app to enrich prayer
+- [God's Green Earth](https://godsgreen.earth) a blog about the relationship between God, Man and Nature
 
 ## 💡 What I'm currenly learning
 - Flutter App Development.
 - JAMstack Web Development.
 
 ## 📮 How to reach me
-Personal Enquiries: [fulcherhuw@gmail.com](mailto:fulcherhuw@gmail.com) or [my website](huwfulcher.com/contact)
+Personal Enquiries: [fulcherhuw@gmail.com](mailto:fulcherhuw@gmail.com) or [my website](https://huwfulcher.com/contact)
 
 Business Enquiries: [huw.fulcher@appnovation.com](mailto:huw.fulcher@appnovation.com)
 

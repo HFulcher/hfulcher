@@ -15,20 +15,23 @@ I help clients:
 ### 👨‍👩‍👦 Personal Life:
 - I am a husband and father to one, 
 - I love to read, my current goal is to read 30 books this year (mainly Theology and Science Fiction), 
-- I've started contributing to Open Source (still fairly new to it!).
 
 
 ## 🛠️ What I'm working on
+### Professionaly:
 - Developing Appnovation's Data, Analytics and Insights service,
-- Helping clients realise the power of data (get in touch if you want a consultation),
-- Developing [gapipy](https://github.com/HFulcher/gapipy), a Python wrapper for the Google Analytics API.
+- Helping clients realise the power of data (get in touch if you want a consultation)
+
+### Personally:
+- [Devoted](devotedapp.faith) an iOS/Android app to enrich prayer
+- [God's Green Earth](godsgreen.earth) a blog about the relationship between God, Man and Nature
 
 ## 💡 What I'm currenly learning
 - Flutter App Development.
 - JAMstack Web Development.
 
 ## 📮 How to reach me
-Personal Enquiries: [fulcherhuw@gmail.com](mailto:fulcherhuw@gmail.com)
+Personal Enquiries: [fulcherhuw@gmail.com](mailto:fulcherhuw@gmail.com) or [my website](huwfulcher.com/contact)
 
 Business Enquiries: [huw.fulcher@appnovation.com](mailto:huw.fulcher@appnovation.com)
 

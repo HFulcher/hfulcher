@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm <a href="https://huwfulcher.com">Huw</a></h1>
-<h2 align="center">Data Scientist, Analyst and Strategist</h2>
+<h2 align="center">Data Scientist & Amateur App/Web Developer</h2>
 
 ## About Me
 ### 👨‍💻 Work Life:
 <strong>Currently:</strong> 
 
-Data Scientist at [Appnovation](https://appnovation.com)
+Lead Data Scientist/Chapter Lead at [Admiral Financial Services Limited](https://www.admiral.com/loans)
 
-I help clients:
-- Understand the power of data and its opportunities,
-- How to utilise it,
-- Deliver analysis/infrastructure that enables data-driven strategy.
+I oversee:
+- Using Machine Learning to make better decisions about lending
+- Developing Data Science capability within the business
+- Establishing our Machine Learning platform to get from idea to production as quickly as possible
 
 ### 👨‍👩‍👦 Personal Life:
 - I am a husband and father to one, 
@@ -18,22 +18,14 @@ I help clients:
 
 
 ## 🛠️ What I'm working on
-### Professionaly:
-- Developing Appnovation's Data, Analytics and Insights service,
-- Helping clients realise the power of data (get in touch if you want a consultation)
-
-### Personally:
-- [Devoted](https://devotedapp.faith) an iOS/Android app to enrich prayer
-- [God's Green Earth](https://godsgreen.earth) a blog about the relationship between God, Man and Nature
+- A few app ideas...
 
 ## 💡 What I'm currenly learning
 - Flutter App Development.
 - JAMstack Web Development.
 
 ## 📮 How to reach me
-Personal Enquiries: [fulcherhuw@gmail.com](mailto:fulcherhuw@gmail.com) or [my website](https://huwfulcher.com/contact)
-
-Business Enquiries: [huw.fulcher@appnovation.com](mailto:huw.fulcher@appnovation.com)
+[fulcherhuw@gmail.com](mailto:fulcherhuw@gmail.com) or [my website](https://huwfulcher.com/contact)
 
 </br>
 

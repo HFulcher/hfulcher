@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm <a href="https://huwfulcher.com">Huw</a></h1>
-<h2 align="center">Data Scientist & Amateur App/Web Developer</h2>
+<h2 align="center">Software Developer & ML Engineer</h2>
 
 ## About Me
 ### 👨‍💻 Work Life:
 <strong>Currently:</strong> 
 
-Lead Data Scientist/Chapter Lead at [Admiral Financial Services Limited](https://www.admiral.com/loans)
+Lead ML/Data Engineer at [Admiral Money](https://www.admiral.com/loans)
 
 I oversee:
-- Using Machine Learning to make better decisions about lending
-- Developing Data Science capability within the business
-- Establishing our Machine Learning platform to get from idea to production as quickly as possible
+- Our MLOps platform to develop, deploy and monitor our Machine Learning models
+- The Data Engineering team in our effort to migrate the businesses data estate from SAS to AWS
 
 ### 👨‍👩‍👦 Personal Life:
 - I am a husband and father to one, 

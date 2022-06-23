@@ -5,11 +5,9 @@
 ### 👨‍💻 Work Life:
 <strong>Currently:</strong> 
 
-Lead ML/Data Engineer at [Admiral Money](https://www.admiral.com/loans)
+Senior Software Engineer at [CACI IIG](https://www.caci-iig.co.uk)
 
-I oversee:
-- Our MLOps platform to develop, deploy and monitor our Machine Learning models
-- The Data Engineering team in our effort to migrate the businesses data estate from SAS to AWS
+
 
 ### 👨‍👩‍👦 Personal Life:
 - I am a husband and father to one, 

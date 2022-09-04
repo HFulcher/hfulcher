@@ -30,7 +30,3 @@ Other places I can be found online:
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-orange?style=flat&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/3752895/hfulcher)](https://stackoverflow.com/users/3752895/hfulcher)
 [![Dev.to](https://img.shields.io/badge/-DEV.TO-black?style=flat&logo=dev&logoColor=white&link=https://dev.to/huwfulcher)](https://dev.to/huwfulcher)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@huwfulcher)](https://medium.com/@huwfulcher)
-
-</br>
-
-[![Visits Badge](https://badges.pufler.dev/visits/hfulcher/hfulcher)](https://badges.pufler.dev)

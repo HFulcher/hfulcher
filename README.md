@@ -8,21 +8,19 @@
 Senior Software Engineer at [CACI IIG](https://www.caci-iig.co.uk)
 
 
-
 ### 👨‍👩‍👦 Personal Life:
 - I am a husband and father to one, 
 - I love to read, my current goal is to read 30 books this year (mainly Theology and Science Fiction), 
 
 
 ## 🛠️ What I'm working on
-- A few app ideas...
+- [Custom Bible Plans](https://custombibleplans.com) - A way for churches to more easily create custom reading plans for their congregations
+- [huwfulcher.com](https://huwfulcher.com) - I write here from time to time
 
 ## 💡 What I'm currenly learning
-- Flutter App Development.
-- JAMstack Web Development.
+- Laravel
+- Cloud Development (AWS)
 
-## 📮 How to reach me
-[fulcherhuw@gmail.com](mailto:fulcherhuw@gmail.com) or [my website](https://huwfulcher.com/contact)
 
 </br>
 

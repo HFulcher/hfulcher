@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://huwfulcher.com">Huw</a></h1>
-<h2 align="center">Software Developer & ML Engineer</h2>
+<h2 align="center">Software Developer & MLOps Engineer</h2>
 
 ## About Me
 ### 👨‍💻 Work Life:
@@ -15,6 +15,7 @@ Senior Software Engineer at [CACI IIG](https://www.caci-iig.co.uk)
 
 ## 🛠️ What I'm working on
 - [huwfulcher.com](https://huwfulcher.com) - I write here from time to time
+- [mlopsnow.com](https://mlopsnow.com) - A content website to help others learn about MLOps
 
 ## 💡 What I'm currenly learning
 - Cloud Development (AWS)

@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm <a href="https://huwfulcher.com">Huw</a></h1>
 <h2 align="center">Software Developer & MLOps Engineer</h2>
 
+![EFF membership logo](https://www.eff.org/files/2022/11/28/eff-2023-member-member.png)
+
 ## About Me
 ### 👨‍💻 Work Life:
 <strong>Currently:</strong> 

@@ -3,26 +3,22 @@
 
 ![EFF membership logo](https://www.eff.org/files/2022/11/28/eff-2023-member-member.png)
 
+**This repo will not be updated as often anymore, I am now [hosting my own git server](git.ussenterprise.xyz).**
+
 ## About Me
-### 👨‍💻 Work Life:
 <strong>Currently:</strong> 
 
 Technical Consultant at [CACI IIG](https://www.caci-iig.co.uk)
 
+<strong>Soon:</strong>
 
-### 👨‍👩‍👦 Personal Life:
-- I am a husband and father to one with another one the way! 
-- I love to read, my current goal is to read 30 books this year (mainly Theology, Science Fiction and Self Development) 
+MLOps Lead at [Admiral Money](https://www.admiral.com/)
 
 
 ## 🛠️ What I'm working on
 - [huwfulcher.com](https://huwfulcher.com) - I write here from time to time
 - [mlopsnow.com](https://mlopsnow.com) - A content website to help others learn about MLOps
 
-## 💡 What I'm currenly learning
-- Cloud Development (AWS)
-
-</br>
 
 Other places I can be found online:
 
